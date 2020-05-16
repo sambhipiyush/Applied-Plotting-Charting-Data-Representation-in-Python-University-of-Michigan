@@ -1,0 +1,467 @@
+Unemployment_Rate : Urban
+Region, Date, Frequency, Value
+Andhra Pradesh, 2016-01-31, M, 20.17
+Andhra Pradesh, 2016-02-29, M, 9.73
+Andhra Pradesh, 2016-03-31, M, 15.63
+Andhra Pradesh, 2016-04-30, M, 9.68
+Andhra Pradesh, 2016-05-31, M, 7.34
+Andhra Pradesh, 2016-06-30, M, 6.75
+Andhra Pradesh, 2016-07-31, M, 4.58
+Andhra Pradesh, 2016-08-31, M, 6.58
+Andhra Pradesh, 2016-09-30, M, 5.10
+Andhra Pradesh, 2016-10-31, M, 7.32
+Andhra Pradesh, 2016-11-30, M, 6.15
+Andhra Pradesh, 2016-12-31, M, 6.10
+Andhra Pradesh, 2017-01-31, M, 5.81
+Andhra Pradesh, 2017-02-28, M, 4.54
+Andhra Pradesh, 2017-03-31, M, 3.80
+Andhra Pradesh, 2017-04-30, M, 5.49
+Andhra Pradesh, 2017-05-31, M, 3.85
+Andhra Pradesh, 2017-06-30, M, 3.39
+Assam, 2016-01-31, M, 6.33
+Assam, 2016-02-29, M, 9.06
+Assam, 2016-03-31, M, 5.17
+Assam, 2016-04-30, M, 4.27
+Assam, 2016-05-31, M, 4.75
+Assam, 2016-06-30, M, 5.79
+Assam, 2016-07-31, M, 7.14
+Assam, 2016-08-31, M, 13.01
+Assam, 2016-09-30, M, 9.57
+Assam, 2016-10-31, M, 10.51
+Assam, 2016-11-30, M, 3.39
+Assam, 2016-12-31, M, 5.78
+Assam, 2017-01-31, M, 5.90
+Assam, 2017-02-28, M, 10.08
+Assam, 2017-03-31, M, 4.88
+Assam, 2017-04-30, M, 1.76
+Assam, 2017-05-31, M, 6.64
+Assam, 2017-06-30, M, 9.54
+Bihar, 2016-01-31, M, 8.97
+Bihar, 2016-02-29, M, 20.46
+Bihar, 2016-03-31, M, 10.99
+Bihar, 2016-04-30, M, 13.05
+Bihar, 2016-05-31, M, 21.60
+Bihar, 2016-06-30, M, 23.61
+Bihar, 2016-07-31, M, 19.83
+Bihar, 2016-08-31, M, 17.30
+Bihar, 2016-09-30, M, 20.12
+Bihar, 2016-10-31, M, 10.59
+Bihar, 2016-11-30, M, 10.97
+Bihar, 2016-12-31, M, 6.18
+Bihar, 2017-01-31, M, 11.24
+Bihar, 2017-02-28, M, 8.04
+Bihar, 2017-03-31, M, 5.58
+Bihar, 2017-04-30, M, 3.37
+Bihar, 2017-05-31, M, 5.63
+Bihar, 2017-06-30, M, 3.87
+Chandigarh, 2016-01-31, M, 8.43
+Chandigarh, 2016-02-29, M, 15.15
+Chandigarh, 2016-03-31, M, 11.11
+Chandigarh, 2016-04-30, M, 9.09
+Chandigarh, 2016-05-31, M, 10.59
+Chandigarh, 2016-06-30, M, 5.98
+Chandigarh, 2016-07-31, M, 4.08
+Chandigarh, 2016-08-31, M, 4.26
+Chandigarh, 2016-09-30, M, 8.63
+Chandigarh, 2016-10-31, M, 0.00
+Chandigarh, 2016-11-30, M, 1.61
+Chandigarh, 2016-12-31, M, 5.38
+Chandigarh, 2017-01-31, M, 5.56
+Chandigarh, 2017-02-28, M, 5.15
+Chandigarh, 2017-03-31, M, 0.00
+Chandigarh, 2017-04-30, M, 0.00
+Chandigarh, 2017-05-31, M, 13.53
+Chandigarh, 2017-06-30, M, 9.18
+Chhattisgarh, 2016-01-31, M, 6.54
+Chhattisgarh, 2016-02-29, M, 3.71
+Chhattisgarh, 2016-03-31, M, 8.67
+Chhattisgarh, 2016-04-30, M, 3.69
+Chhattisgarh, 2016-05-31, M, 8.43
+Chhattisgarh, 2016-06-30, M, 13.90
+Chhattisgarh, 2016-07-31, M, 7.07
+Chhattisgarh, 2016-08-31, M, 7.39
+Chhattisgarh, 2016-09-30, M, 5.96
+Chhattisgarh, 2016-10-31, M, 5.66
+Chhattisgarh, 2016-11-30, M, 8.87
+Chhattisgarh, 2016-12-31, M, 7.81
+Chhattisgarh, 2017-01-31, M, 6.46
+Chhattisgarh, 2017-02-28, M, 6.58
+Chhattisgarh, 2017-03-31, M, 3.74
+Chhattisgarh, 2017-04-30, M, 5.46
+Chhattisgarh, 2017-05-31, M, 6.67
+Chhattisgarh, 2017-06-30, M, 5.24
+Delhi, 2016-01-31, M, 10.59
+Delhi, 2016-02-29, M, 10.83
+Delhi, 2016-03-31, M, 10.51
+Delhi, 2016-04-30, M, 5.73
+Delhi, 2016-05-31, M, 17.44
+Delhi, 2016-06-30, M, 15.91
+Delhi, 2016-07-31, M, 14.16
+Delhi, 2016-08-31, M, 6.45
+Delhi, 2016-09-30, M, 7.58
+Delhi, 2016-10-31, M, 11.58
+Delhi, 2016-11-30, M, 11.30
+Delhi, 2016-12-31, M, 11.15
+Delhi, 2017-01-31, M, 10.88
+Delhi, 2017-02-28, M, 12.12
+Delhi, 2017-03-31, M, 10.80
+Delhi, 2017-04-30, M, 7.27
+Delhi, 2017-05-31, M, 5.35
+Delhi, 2017-06-30, M, 2.82
+Goa, 2016-01-31, M, 12.31
+Goa, 2016-02-29, M, 13.54
+Goa, 2016-03-31, M, 3.77
+Goa, 2016-04-30, M, 7.72
+Goa, 2016-05-31, M, 16.77
+Goa, 2016-06-30, M, 17.06
+Goa, 2016-07-31, M, 5.78
+Goa, 2016-08-31, M, 9.62
+Goa, 2016-09-30, M, 14.38
+Goa, 2016-10-31, M, 13.72
+Goa, 2016-11-30, M, 4.33
+Goa, 2016-12-31, M, 8.66
+Goa, 2017-01-31, M, 14.47
+Goa, 2017-02-28, M, 14.29
+Goa, 2017-03-31, M, 4.02
+Goa, 2017-04-30, M, 5.97
+Goa, 2017-05-31, M, 11.74
+Gujarat, 2016-01-31, M, 4.96
+Gujarat, 2016-02-29, M, 3.22
+Gujarat, 2016-03-31, M, 6.01
+Gujarat, 2016-04-30, M, 4.96
+Gujarat, 2016-05-31, M, 4.32
+Gujarat, 2016-06-30, M, 2.91
+Gujarat, 2016-07-31, M, 4.00
+Gujarat, 2016-08-31, M, 2.12
+Gujarat, 2016-09-30, M, 3.34
+Gujarat, 2016-10-31, M, 1.04
+Gujarat, 2016-11-30, M, 2.85
+Gujarat, 2016-12-31, M, 3.57
+Gujarat, 2017-01-31, M, 2.99
+Gujarat, 2017-02-28, M, 1.81
+Gujarat, 2017-03-31, M, 2.96
+Gujarat, 2017-04-30, M, 1.86
+Gujarat, 2017-05-31, M, 1.08
+Gujarat, 2017-06-30, M, 2.02
+Haryana, 2016-01-31, M, 18.37
+Haryana, 2016-02-29, M, 15.62
+Haryana, 2016-03-31, M, 15.87
+Haryana, 2016-04-30, M, 16.11
+Haryana, 2016-05-31, M, 16.95
+Haryana, 2016-06-30, M, 13.87
+Haryana, 2016-07-31, M, 11.19
+Haryana, 2016-08-31, M, 9.80
+Haryana, 2016-09-30, M, 12.18
+Haryana, 2016-10-31, M, 11.83
+Haryana, 2016-11-30, M, 11.28
+Haryana, 2016-12-31, M, 9.26
+Haryana, 2017-01-31, M, 10.58
+Haryana, 2017-02-28, M, 7.75
+Haryana, 2017-03-31, M, 1.52
+Haryana, 2017-04-30, M, 2.22
+Haryana, 2017-05-31, M, 5.57
+Haryana, 2017-06-30, M, 4.55
+Himachal Pradesh, 2016-01-31, M, 2.30
+Himachal Pradesh, 2016-02-29, M, 1.27
+Himachal Pradesh, 2016-03-31, M, 2.66
+Himachal Pradesh, 2016-04-30, M, 12.03
+Himachal Pradesh, 2016-05-31, M, 1.87
+Himachal Pradesh, 2016-06-30, M, 3.51
+Himachal Pradesh, 2016-07-31, M, 14.63
+Himachal Pradesh, 2016-08-31, M, 8.20
+Himachal Pradesh, 2016-09-30, M, 1.35
+Himachal Pradesh, 2016-10-31, M, 3.51
+Himachal Pradesh, 2016-11-30, M, 3.51
+Himachal Pradesh, 2016-12-31, M, 4.88
+Himachal Pradesh, 2017-01-31, M, 1.90
+Himachal Pradesh, 2017-02-28, M, 5.42
+Himachal Pradesh, 2017-03-31, M, 8.62
+Himachal Pradesh, 2017-04-30, M, 4.71
+Himachal Pradesh, 2017-05-31, M, 1.16
+Himachal Pradesh, 2017-06-30, M, 4.38
+Jammu & Kashmir, 2016-01-31, M, 14.37
+Jammu & Kashmir, 2016-02-29, M, 16.26
+Jammu & Kashmir, 2016-03-31, M, 18.93
+Jammu & Kashmir, 2016-04-30, M, 20.84
+Jammu & Kashmir, 2016-05-31, M, 20.35
+Jammu & Kashmir, 2016-06-30, M, 21.05
+Jammu & Kashmir, 2016-07-31, M, 21.30
+Jammu & Kashmir, 2016-08-31, M, 21.64
+Jammu & Kashmir, 2016-09-30, M, 21.85
+Jammu & Kashmir, 2016-10-31, M, 28.22
+Jammu & Kashmir, 2016-11-30, M, 18.35
+Jammu & Kashmir, 2016-12-31, M, 17.37
+Jammu & Kashmir, 2017-01-31, M, 12.99
+Jammu & Kashmir, 2017-02-28, M, 15.53
+Jammu & Kashmir, 2017-03-31, M, 4.49
+Jammu & Kashmir, 2017-04-30, M, 10.27
+Jammu & Kashmir, 2017-06-30, M, 0.00
+Jharkhand, 2016-01-31, M, 13.15
+Jharkhand, 2016-02-29, M, 14.83
+Jharkhand, 2016-03-31, M, 15.31
+Jharkhand, 2016-04-30, M, 15.51
+Jharkhand, 2016-05-31, M, 11.78
+Jharkhand, 2016-06-30, M, 21.38
+Jharkhand, 2016-07-31, M, 17.30
+Jharkhand, 2016-08-31, M, 14.97
+Jharkhand, 2016-09-30, M, 11.95
+Jharkhand, 2016-10-31, M, 4.86
+Jharkhand, 2016-11-30, M, 11.73
+Jharkhand, 2016-12-31, M, 5.44
+Jharkhand, 2017-01-31, M, 4.04
+Jharkhand, 2017-02-28, M, 4.82
+Jharkhand, 2017-03-31, M, 6.35
+Jharkhand, 2017-04-30, M, 5.37
+Jharkhand, 2017-05-31, M, 4.29
+Jharkhand, 2017-06-30, M, 6.27
+Karnataka, 2016-01-31, M, 9.58
+Karnataka, 2016-02-29, M, 6.02
+Karnataka, 2016-03-31, M, 4.61
+Karnataka, 2016-04-30, M, 8.61
+Karnataka, 2016-05-31, M, 16.03
+Karnataka, 2016-06-30, M, 3.86
+Karnataka, 2016-07-31, M, 4.24
+Karnataka, 2016-08-31, M, 7.32
+Karnataka, 2016-09-30, M, 8.83
+Karnataka, 2016-10-31, M, 8.21
+Karnataka, 2016-11-30, M, 6.76
+Karnataka, 2016-12-31, M, 6.47
+Karnataka, 2017-01-31, M, 7.88
+Karnataka, 2017-02-28, M, 7.44
+Karnataka, 2017-03-31, M, 3.19
+Karnataka, 2017-04-30, M, 2.65
+Karnataka, 2017-05-31, M, 2.23
+Karnataka, 2017-06-30, M, 1.88
+Kerala, 2016-01-31, M, 15.87
+Kerala, 2016-02-29, M, 23.35
+Kerala, 2016-03-31, M, 18.61
+Kerala, 2016-04-30, M, 19.55
+Kerala, 2016-05-31, M, 10.53
+Kerala, 2016-06-30, M, 14.50
+Kerala, 2016-07-31, M, 14.49
+Kerala, 2016-08-31, M, 13.32
+Kerala, 2016-09-30, M, 6.18
+Kerala, 2016-10-31, M, 9.36
+Kerala, 2016-11-30, M, 16.27
+Kerala, 2016-12-31, M, 17.45
+Kerala, 2017-01-31, M, 12.30
+Kerala, 2017-02-28, M, 12.85
+Kerala, 2017-03-31, M, 12.66
+Kerala, 2017-04-30, M, 8.95
+Kerala, 2017-05-31, M, 5.10
+Kerala, 2017-06-30, M, 8.70
+Madhya Pradesh, 2016-01-31, M, 7.20
+Madhya Pradesh, 2016-02-29, M, 4.41
+Madhya Pradesh, 2016-03-31, M, 13.78
+Madhya Pradesh, 2016-04-30, M, 10.75
+Madhya Pradesh, 2016-05-31, M, 9.89
+Madhya Pradesh, 2016-06-30, M, 3.44
+Madhya Pradesh, 2016-07-31, M, 14.21
+Madhya Pradesh, 2016-08-31, M, 13.99
+Madhya Pradesh, 2016-09-30, M, 6.97
+Madhya Pradesh, 2016-10-31, M, 4.10
+Madhya Pradesh, 2016-11-30, M, 11.54
+Madhya Pradesh, 2016-12-31, M, 7.76
+Madhya Pradesh, 2017-01-31, M, 6.12
+Madhya Pradesh, 2017-02-28, M, 1.80
+Madhya Pradesh, 2017-03-31, M, 10.55
+Madhya Pradesh, 2017-04-30, M, 3.71
+Madhya Pradesh, 2017-05-31, M, 3.47
+Madhya Pradesh, 2017-06-30, M, 1.03
+Maharashtra, 2016-01-31, M, 4.89
+Maharashtra, 2016-02-29, M, 5.53
+Maharashtra, 2016-03-31, M, 8.20
+Maharashtra, 2016-04-30, M, 11.82
+Maharashtra, 2016-05-31, M, 12.05
+Maharashtra, 2016-06-30, M, 7.05
+Maharashtra, 2016-07-31, M, 9.49
+Maharashtra, 2016-08-31, M, 12.58
+Maharashtra, 2016-09-30, M, 10.11
+Maharashtra, 2016-10-31, M, 6.55
+Maharashtra, 2016-11-30, M, 4.71
+Maharashtra, 2016-12-31, M, 5.99
+Maharashtra, 2017-01-31, M, 6.05
+Maharashtra, 2017-02-28, M, 4.69
+Maharashtra, 2017-03-31, M, 6.05
+Maharashtra, 2017-04-30, M, 3.77
+Maharashtra, 2017-05-31, M, 5.41
+Maharashtra, 2017-06-30, M, 3.48
+Odisha, 2016-01-31, M, 12.01
+Odisha, 2016-02-29, M, 16.95
+Odisha, 2016-03-31, M, 15.14
+Odisha, 2016-04-30, M, 15.54
+Odisha, 2016-05-31, M, 13.17
+Odisha, 2016-06-30, M, 15.60
+Odisha, 2016-07-31, M, 10.58
+Odisha, 2016-08-31, M, 7.23
+Odisha, 2016-09-30, M, 4.85
+Odisha, 2016-10-31, M, 10.03
+Odisha, 2016-11-30, M, 4.90
+Odisha, 2016-12-31, M, 5.72
+Odisha, 2017-01-31, M, 4.77
+Odisha, 2017-02-28, M, 5.97
+Odisha, 2017-03-31, M, 1.81
+Odisha, 2017-04-30, M, 5.99
+Odisha, 2017-05-31, M, 3.50
+Odisha, 2017-06-30, M, 6.95
+Puducherry, 2016-01-31, M, 17.07
+Puducherry, 2016-02-29, M, 20.78
+Puducherry, 2016-03-31, M, 3.11
+Puducherry, 2016-04-30, M, 0.50
+Puducherry, 2016-05-31, M, 7.52
+Puducherry, 2016-06-30, M, 17.67
+Puducherry, 2016-07-31, M, 4.55
+Puducherry, 2016-08-31, M, 0.44
+Puducherry, 2016-09-30, M, 4.00
+Puducherry, 2016-10-31, M, 15.74
+Puducherry, 2016-11-30, M, 5.65
+Puducherry, 2016-12-31, M, 2.74
+Puducherry, 2017-01-31, M, 2.78
+Puducherry, 2017-02-28, M, 6.13
+Puducherry, 2017-03-31, M, 0.53
+Puducherry, 2017-04-30, M, 0.93
+Puducherry, 2017-05-31, M, 2.07
+Punjab, 2016-01-31, M, 9.23
+Punjab, 2016-02-29, M, 8.62
+Punjab, 2016-03-31, M, 8.27
+Punjab, 2016-04-30, M, 7.22
+Punjab, 2016-05-31, M, 9.63
+Punjab, 2016-06-30, M, 9.26
+Punjab, 2016-07-31, M, 7.98
+Punjab, 2016-08-31, M, 10.32
+Punjab, 2016-09-30, M, 5.81
+Punjab, 2016-10-31, M, 7.05
+Punjab, 2016-11-30, M, 6.21
+Punjab, 2016-12-31, M, 8.05
+Punjab, 2017-01-31, M, 6.91
+Punjab, 2017-02-28, M, 3.35
+Punjab, 2017-03-31, M, 2.94
+Punjab, 2017-04-30, M, 3.26
+Punjab, 2017-05-31, M, 8.84
+Punjab, 2017-06-30, M, 6.14
+Rajasthan, 2016-01-31, M, 10.62
+Rajasthan, 2016-02-29, M, 4.46
+Rajasthan, 2016-03-31, M, 6.40
+Rajasthan, 2016-04-30, M, 11.81
+Rajasthan, 2016-05-31, M, 11.91
+Rajasthan, 2016-06-30, M, 6.21
+Rajasthan, 2016-07-31, M, 3.72
+Rajasthan, 2016-08-31, M, 4.55
+Rajasthan, 2016-09-30, M, 5.04
+Rajasthan, 2016-10-31, M, 1.79
+Rajasthan, 2016-11-30, M, 4.25
+Rajasthan, 2016-12-31, M, 4.96
+Rajasthan, 2017-01-31, M, 5.38
+Rajasthan, 2017-02-28, M, 2.39
+Rajasthan, 2017-03-31, M, 3.85
+Rajasthan, 2017-04-30, M, 2.59
+Rajasthan, 2017-05-31, M, 3.19
+Rajasthan, 2017-06-30, M, 2.25
+Tamil Nadu, 2016-01-31, M, 6.79
+Tamil Nadu, 2016-02-29, M, 6.81
+Tamil Nadu, 2016-03-31, M, 14.87
+Tamil Nadu, 2016-04-30, M, 7.19
+Tamil Nadu, 2016-05-31, M, 8.03
+Tamil Nadu, 2016-06-30, M, 10.14
+Tamil Nadu, 2016-07-31, M, 14.79
+Tamil Nadu, 2016-08-31, M, 16.82
+Tamil Nadu, 2016-09-30, M, 17.10
+Tamil Nadu, 2016-10-31, M, 8.85
+Tamil Nadu, 2016-11-30, M, 7.99
+Tamil Nadu, 2016-12-31, M, 9.22
+Tamil Nadu, 2017-01-31, M, 12.13
+Tamil Nadu, 2017-02-28, M, 8.69
+Tamil Nadu, 2017-03-31, M, 6.36
+Tamil Nadu, 2017-04-30, M, 4.97
+Tamil Nadu, 2017-05-31, M, 3.75
+Tamil Nadu, 2017-06-30, M, 4.68
+Telangana, 2016-01-31, M, 11.38
+Telangana, 2016-02-29, M, 9.67
+Telangana, 2016-03-31, M, 8.03
+Telangana, 2016-04-30, M, 9.76
+Telangana, 2016-05-31, M, 11.60
+Telangana, 2016-06-30, M, 10.06
+Telangana, 2016-07-31, M, 7.85
+Telangana, 2016-08-31, M, 7.07
+Telangana, 2016-09-30, M, 7.42
+Telangana, 2016-10-31, M, 9.39
+Telangana, 2016-11-30, M, 5.75
+Telangana, 2016-12-31, M, 9.60
+Telangana, 2017-01-31, M, 11.44
+Telangana, 2017-02-28, M, 11.97
+Telangana, 2017-03-31, M, 6.28
+Telangana, 2017-04-30, M, 3.61
+Telangana, 2017-05-31, M, 5.72
+Telangana, 2017-06-30, M, 6.98
+Uttar Pradesh, 2016-01-31, M, 18.40
+Uttar Pradesh, 2016-02-29, M, 21.43
+Uttar Pradesh, 2016-03-31, M, 20.86
+Uttar Pradesh, 2016-04-30, M, 21.81
+Uttar Pradesh, 2016-05-31, M, 19.96
+Uttar Pradesh, 2016-06-30, M, 17.84
+Uttar Pradesh, 2016-07-31, M, 21.05
+Uttar Pradesh, 2016-08-31, M, 17.65
+Uttar Pradesh, 2016-09-30, M, 14.13
+Uttar Pradesh, 2016-10-31, M, 11.29
+Uttar Pradesh, 2016-11-30, M, 11.02
+Uttar Pradesh, 2016-12-31, M, 8.71
+Uttar Pradesh, 2017-01-31, M, 6.16
+Uttar Pradesh, 2017-02-28, M, 5.53
+Uttar Pradesh, 2017-03-31, M, 6.05
+Uttar Pradesh, 2017-04-30, M, 3.48
+Uttar Pradesh, 2017-05-31, M, 5.01
+Uttar Pradesh, 2017-06-30, M, 6.19
+Uttarakhand, 2016-01-31, M, 5.80
+Uttarakhand, 2016-02-29, M, 4.04
+Uttarakhand, 2016-03-31, M, 4.28
+Uttarakhand, 2016-04-30, M, 5.59
+Uttarakhand, 2016-05-31, M, 5.31
+Uttarakhand, 2016-06-30, M, 3.97
+Uttarakhand, 2016-07-31, M, 2.00
+Uttarakhand, 2016-08-31, M, 3.55
+Uttarakhand, 2016-09-30, M, 5.88
+Uttarakhand, 2016-10-31, M, 2.04
+Uttarakhand, 2016-11-30, M, 0.33
+Uttarakhand, 2016-12-31, M, 2.89
+Uttarakhand, 2017-01-31, M, 2.46
+Uttarakhand, 2017-02-28, M, 2.20
+Uttarakhand, 2017-03-31, M, 0.88
+Uttarakhand, 2017-04-30, M, 0.87
+Uttarakhand, 2017-05-31, M, 0.61
+Uttarakhand, 2017-06-30, M, 0.75
+West Bengal, 2016-01-31, M, 10.68
+West Bengal, 2016-02-29, M, 9.53
+West Bengal, 2016-03-31, M, 7.90
+West Bengal, 2016-04-30, M, 7.34
+West Bengal, 2016-05-31, M, 8.76
+West Bengal, 2016-06-30, M, 9.31
+West Bengal, 2016-07-31, M, 7.62
+West Bengal, 2016-08-31, M, 8.91
+West Bengal, 2016-09-30, M, 7.72
+West Bengal, 2016-10-31, M, 5.89
+West Bengal, 2016-11-30, M, 5.84
+West Bengal, 2016-12-31, M, 6.92
+West Bengal, 2017-01-31, M, 8.48
+West Bengal, 2017-02-28, M, 6.28
+West Bengal, 2017-03-31, M, 5.92
+West Bengal, 2017-04-30, M, 5.91
+West Bengal, 2017-05-31, M, 8.91
+West Bengal, 2017-06-30, M, 6.16
+India, 2016-01-31, M, 10.52
+India, 2016-02-29, M, 10.56
+India, 2016-03-31, M, 11.65
+India, 2016-04-30, M, 11.33
+India, 2016-05-31, M, 12.07
+India, 2016-06-30, M, 10.35
+India, 2016-07-31, M, 11.16
+India, 2016-08-31, M, 11.20
+India, 2016-09-30, M, 9.73
+India, 2016-10-31, M, 7.62
+India, 2016-11-30, M, 7.75
+India, 2016-12-31, M, 7.74
+India, 2017-01-31, M, 7.73
+India, 2017-02-28, M, 6.47
+India, 2017-03-31, M, 5.86
+India, 2017-04-30, M, 4.25
+India, 2017-05-31, M, 4.77
+India, 2017-06-30, M, 4.47

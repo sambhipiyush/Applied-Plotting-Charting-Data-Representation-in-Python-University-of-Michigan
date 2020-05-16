@@ -1,0 +1,39 @@
+"State/UT","MPCE(MMRP) - Rural","MPCE(MMRP) - Urban","% difference*"
+Andhra Pradesh,1754,2685,53.10
+Arunachal Pradesh,1782,2654,49.00
+Assam,1219,2189,79.60
+Bihar,1127,1507,33.70
+Chhattisgarh,1027,1868,81.90
+Delhi,2762,3298,19.40
+Goa,2408,3051,26.70
+Gujarat,1536,2581,68.10
+Haryana,2176,3817,75.40
+Himachal Pradesh,2034,3259,60.20
+"Jammu & Kashmir",1743,2485,42.60
+Jharkhand,1006,2018,100.70
+Karnataka,1561,3026,93.80
+Kerala,2669,3408,27.70
+Madhya Pradesh,1152,2058,78.60
+Maharashtra,1619,3189,97.00
+Manipur,1502,1483,-1.30
+Meghalaya,1475,2436,65.20
+Mizoram,1644,2568,56.20
+Nagaland,2059,2284,11.00
+Odisha,1003,1941,93.60
+Punjab,2345,2794,19.20
+Rajasthan,1598,2442,52.90
+Sikkim,1565,2608,66.60
+Tamil Nadu,1693,2622,54.90
+Tripura,1334,2144,60.70
+Uttar Pradesh,1156,2051,77.40
+Uttaranchal,1726,2339,35.50
+West Bengal,1291,2591,100.70
+"A & N Island",2712,4642,71.20
+Chandigarh,2633,3357,27.50
+"Dadra & Nagar Haveli",1123,2671,137.80
+"Daman & Diu",2436,2388,-1.90
+Lakshadweep,2924,3287,12.40
+Puducherry,2173,3216,48.00
+All-India,1430,2630,83.90
+
+"*% difference: urban minus rural as a percentage of rural"

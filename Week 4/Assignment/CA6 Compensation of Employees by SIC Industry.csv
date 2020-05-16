@@ -1,0 +1,116 @@
+"CA6 Compensation of Employees by SIC Industry"
+"" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","LineCode","Description","1998","1999","2000"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","","Total compensation of employees","","",""
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","1","Compensation of employees (thousands of dollars) 1/",8601571,9463062,10180410
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","5","  Wages and salaries",6931349,7621190,8139692
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","6","  Supplements to wages and salaries",1670222,1841872,2040718
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","7","    Employer contributions for employee pension and insurance funds 2/",1132024,1259124,1428739
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","8","    Employer contributions for government social insurance",538198,582748,611979
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","9","Average compensation per job (dollars) 3/",42425,44935,47507
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","","Compensation of employees by industry","","",""
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","81","  Farm compensation",8904,8524,9970
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","82","  Nonfarm compensation",8592667,9454538,10170440
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","90","    Private nonfarm compensation",6153218,6830961,7368376
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","100","      Agricultural services, forestry, and fishing",35196,39285,41794
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","110","        Agricultural services",34457,38332,40729
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","120","        Forestry and fishing",739,953,1065
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","121","          Forestry","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","122","          Fishing","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","200","      Mining",3672,4135,6015
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","210","        Metal mining",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","220","        Coal mining",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","230","        Oil and gas extraction",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","240","        Nonmetallic minerals, except fuels",3672,4135,6015
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","300","      Construction",280584,312268,340519
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","310","        General building contractors",53480,61313,66361
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","320","        Heavy construction contractors",43542,48402,55343
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","330","        Special trade contractors",183562,202553,218815
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","400","      Manufacturing",2284267,2574014,2801153
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","410","        Durable goods manufacturing",1721865,1904442,1908212
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","413","          Lumber and wood products",4502,5254,4762
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","417","          Furniture and fixtures",1526,1594,1554
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","420","          Stone, clay, and glass products",7529,8358,9169
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","423","          Primary metal industries",11312,3428,3433
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","426","          Fabricated metal products","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","429","          Industrial machinery and equipment",257533,260283,275083
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","432","          Electronic and other electric equipment","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","435","          Motor vehicles and equipment",821455,982037,968039
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","438","          Other transportation equipment",3881,4057,4180
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","441","          Instruments and related products",121243,119811,114985
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","444","          Miscellaneous manufacturing industries",16126,17796,20491
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","447","          Ordnance","(NA)","(NA)","(NA)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","450","        Nondurable goods manufacturing",562402,669572,892941
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","453","          Food and kindred products",20701,20372,23828
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","456","          Tobacco products",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","459","          Textile mill products",0,0,"(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","462","          Apparel and other textile products",694,864,931
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","465","          Paper and allied products",12220,14647,11939
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","468","          Printing and publishing",153077,158015,161309
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","471","          Chemicals and allied products","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","474","          Petroleum and coal products","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","477","          Rubber and miscellaneous plastics products",125654,122341,102559
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","480","          Leather and leather products","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","500","      Transportation and public utilities",347214,325518,256328
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","510","        Railroad transportation",2039,2160,1946
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","520","        Trucking and warehousing",70944,68677,73024
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","530","        Water transportation",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","540","        Other transportation",164046,141562,67063
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","541","          Local and interurban passenger transit",16106,17859,17804
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","542","          Transportation by air",136537,110783,36049
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","543","          Pipelines, except natural gas",0,0,0
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","544","          Transportation services",11403,12920,13210
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","560","        Communications",71526,72620,64427
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","570","        Electric, gas, and sanitary services",38659,40499,49868
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","610","      Wholesale trade",332221,334298,378950
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","620","      Retail trade",736225,749834,776016
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","621","        Building materials and garden equipment",38018,41838,48548
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","622","        General merchandise stores",65064,66311,69188
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","623","        Food stores",75071,82996,87972
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","624","        Automotive dealers and service stations",104406,113645,116845
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","625","        Apparel and accessory stores",22563,24027,23850
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","626","        Home furniture and furnishings stores",39380,44727,48285
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","627","        Eating and drinking places",223528,215818,220974
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","628","        Miscellaneous retail",168195,160472,160354
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","700","      Finance, insurance, and real estate",261039,257695,277389
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","710","        Depository and nondepository institutions",122674,105430,106043
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","730","        Other finance, insurance, and real estate",138365,152265,171346
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","731","          Security and commodity brokers",22898,25562,29065
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","732","          Insurance carriers",25460,26236,28721
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","733","          Insurance agents, brokers, and services",19425,21667,21388
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","734","          Real estate",56412,56753,70066
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","735","          Combined real estate, insurance, etc.","(NA)","(NA)","(NA)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","736","          Holding and other investment offices",14170,22047,22106
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","800","      Services",1872800,2233914,2490212
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","805","        Hotels and other lodging places",26109,23843,25729
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","810","        Personal services",26660,31582,34026
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","815","        Private households",10807,9654,10070
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","820","        Business services",547589,698075,800640
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","825","        Automotive repair, services, and parking",43745,40964,44165
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","830","        Miscellaneous repair services",7988,8329,8073
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","835","        Amusement and recreation services",28817,33889,35143
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","840","        Motion pictures",7353,8298,8767
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","845","        Health services",516912,622655,669055
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","850","        Legal services",63526,68619,69648
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","855","        Educational services",33368,37749,36413
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","860","        Social services",77833,89128,88534
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","865","        Museums, botanical, zoological gardens","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","870","        Membership organizations",60310,64207,70639
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","875","        Engineering and management services",413078,490182,581378
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","880","        Miscellaneous services","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","900","    Government and government enterprises",2439449,2623577,2802064
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","910","      Federal, civilian",133334,138179,146733
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","920","      Military",11138,11944,12302
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","930","      State and local",2294977,2473454,2643029
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","931","        State government",1788778,1931096,2066949
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","932","        Local government",506199,542358,576080
+"Legend / Footnotes:"
+"1/ The estimates of compensation for 1998-2000 are based on the 1987 Standard Industrial Classification (SIC)."
+"2/ Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period."
+"3/ Average compensation per job is compensation of employees divided by total full-time and part-time wage and salary employment."
+"Note-- All dollar estimates are in current dollars (not adjusted for inflation)."
+"(D) Not shown to avoid disclosure of confidential information, but the estimates for this item are included in the total."
+"(NA) Data not available for this year."
+"Last updated: May 30, 2014-- revised estimates for 1998-2000."
